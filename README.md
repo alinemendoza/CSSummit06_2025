@@ -2,6 +2,7 @@
 ## Instruction:
 ### 1. No need to download this repository to your vscode. You can **just upload your files** on the appropriate year level folder. <ins>*Clone or Fork only when you want to work offline or have your own copy.*</ins>
 ### 2. To upload:
+
    a. Click on the approrpriate folder
    
    ![](./images/folders.png)
@@ -21,7 +22,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------   
 
 ### 3. To move files or to rename files:
+
   a. Click on the file to be moved or renamed.
+  
   b. Choose the file, then click on the pencil icon (upper right hand)
 
    ![](./images/edit.png)
@@ -33,5 +36,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 4. To delete a file, click on the file to change then click on Edit
-   e. On the right hand corder there are three dots then select Delete File. Make sure to commit the changes.
+
+   a. On the right hand corder there are three dots then select Delete File. Make sure to commit the changes.
+   
     ![](./images/delete.png)

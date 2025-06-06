@@ -39,4 +39,4 @@
 
    a. On the right hand corner there are three dots, click on it then select Delete File. Make sure to commit the changes.
    
-    ![](./images/delete.png)
+      ![](./images/delete.png)

@@ -35,7 +35,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 4. To delete a file, click on the file to change then click on Edit
+### 4. To delete a file, click on the file to change then click on Edit pencil icon.
 
    a. On the right hand corner there are three dots, click on it then select Delete File. Make sure to commit the changes.
    

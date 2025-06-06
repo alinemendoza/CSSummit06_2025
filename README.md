@@ -1,6 +1,6 @@
 # CSSummit06_2025
 ## Instruction:
-### 1. No need to download this repository to your vscode. You can **just upload your files** on the appropriate year level folder.
+### 1. No need to download this repository to your vscode. You can **just upload your files** on the appropriate year level folder. <ins>*Clone or Fork only when you want to work offline or have your own copy.*</ins>
 ### 2. To upload:
    a. Click on the approrpriate folder
    
